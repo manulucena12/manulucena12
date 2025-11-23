@@ -43,10 +43,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://i.imgflip.com/g7u55.jpg" width="250" />
-
-
-###
