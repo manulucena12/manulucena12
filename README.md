@@ -46,6 +46,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/manulucena12/manulucena12/output/snake.svg" alt="Snake animation" />
+<img src="https://i.imgflip.com/g7u55.jpg" width="250" />
+
 
 ###
