@@ -1,4 +1,4 @@
-<h1 align="left">Hi! My name is Manuel Lucena and I'm a student from Seville, Spain</h1>
+<h1 align="left">Hi! My name is Manuel Lucena and I'm a student from Spain</h1>
 
 ###
 
